@@ -1,4 +1,4 @@
-# Cryptocurrency live value
+# Simple Crypto Live Trading Value
 This webpage is built using React.js, and it shows live values of Ethereum, Bitcoin and Dogecoin.
 
 [webpage link](https://coleharding3.github.io/CryptoStatus/)
